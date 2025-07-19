@@ -21,7 +21,7 @@ The goal is to predict the appropriate drug type based on patient medical data.
 1. Clone the repo:
 
 `bash
-git clone https://github.com/amirhosssein0/Drugs-Classification.git
+git clone https://github.com/RadmanBZ/Drug-Prescription-AI
 cd Drugs-Classification
 
 Install dependencies:
