@@ -54,4 +54,4 @@ Predict drug types for new patients
 
 GitHub Repository
 
-Email: radmanbayatzadeh0gmail.com
+Email: radmanbayatzadeh@gmail.com
